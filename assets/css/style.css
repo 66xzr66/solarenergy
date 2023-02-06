@@ -1,0 +1,11 @@
+@import url("./block/header.css");
+
+@import url("./block/main.css");
+
+* {
+    font-family: 'Montserrat', sans-serif;
+}
+.container {
+    width: 1161px;
+    margin: 0 auto;
+}
