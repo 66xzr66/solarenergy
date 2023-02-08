@@ -52,15 +52,21 @@ p {
     }
 }
 
+@media (max-width: 1000px) {
+    .divider {
+        width: 100%!important;
+    }
+}
+
 @media (max-width: 690px) {
     h2 {
-        font-size: 72px;
+        font-size: 52px;
         text-align: left;
     }
 }
 
 @media (max-width: 400px) {
     h2 {
-        font-size: 56px;
+        font-size: 36px;
     }
 }
