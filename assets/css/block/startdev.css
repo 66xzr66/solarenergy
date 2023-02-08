@@ -1,0 +1,44 @@
+.start {
+    font-weight: 600;
+    font-size: 100px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    color: #484343;
+}
+.start_dev {
+    background: #222222;
+}
+.firstblock {
+    margin-top: 80px;
+    display: grid;
+    grid-template-columns: 1fr max-content;
+}
+
+.divider2 {
+    height: 1px;
+    width: 100%;
+    background-color: #fff;
+    margin-top: 160px;
+    margin-left: -540px;
+}
+.secondblock {
+    /* margin-top: 175px;
+    display: grid;
+    grid-template-columns: 1fr max-content; */
+    margin-top: 80px;
+    
+}
+.kzsetgoal {
+    display: flex;
+    justify-content: end;
+    
+}
+.divider3 {
+    height: 1px;
+    width: 100%;
+    background-color: #fff;
+    margin-top: 90;
+}
+.kzsetgoal {
+    margin-top: -331px;
+}

@@ -17,6 +17,13 @@ button {
     border: none;
 }
 
+button:hover{
+    background-color: #484343;
+    color: white;
+    transition-duration: 1s;
+    cursor: pointer;
+}
+
 @media (max-width: 400px) {
     h1 {
         font-size: 46px;

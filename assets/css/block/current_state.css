@@ -1,0 +1,12 @@
+.current_state {
+    background: #484343;
+    font-weight: 600;
+    font-size: 100px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+.current_solar {
+    font-weight: 600;
+    font-size: 60px;
+    line-height: 40px;
+}
